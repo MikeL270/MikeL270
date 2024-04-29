@@ -1,5 +1,5 @@
 ### About Me
-My name is Michael B. Lance I am a software development student at the University of Wyoming's School of Computing startin Fall 2024, I earned my AAS from CWC (May 2024) and decided to continue my education further. I enjoy problem solving and working with my hands. I am restoring a 1976 Ford f150 Custom Cab 300i6 in my spare time. I have been actively learning programming since Fall 2023.
+My name is Michael B. Lance, I am a software development student at the University of Wyoming's School of Computing startin Fall 2024. I earned my AAS from CWC (May 2024) and decided to continue my education further. I enjoy problem solving and working with my hands. I am restoring a 1976 Ford f150 Custom Cab 300i6 in my spare time. I have been actively learning programming since Fall 2023.
 
 ## Education:
 - **Central Wyoming College** Associates of Applied Science in Computer Technology (May 2024)
