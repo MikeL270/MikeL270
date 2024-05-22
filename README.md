@@ -13,7 +13,7 @@ My name is Michael B. Lance, I am a software development student at the Universi
 
 ## Languages:
 - **Python**
-- **JavaScript** (actively learning, focused on frontend web development)
+- **JavaScript** (Primarily Vue.js for my website and other projects)
 - **C++** (Prior Experience, going to revisit when time allows)
 - **HTML/CSS** (Section titled languages, that includes markup)
 - **SQL**
