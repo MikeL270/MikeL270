@@ -1,19 +1,15 @@
 ### About Me
-My name is Michael B. Lance, I am a software development student at the University of Wyoming's School of Computing starting Fall 2024. I earned my AAS from CWC (May 2024) and decided to continue my education further. I enjoy problem solving and working with my hands. I am restoring a 1976 Ford f150 Custom Cab 300i6 in my spare time. I have been actively learning programming since Fall 2023.
+I am a student in the University of Wyoming's School of Computing in the Applied Software Development program. I earned my AAS from CWC and decided to continue my education further. I enjoy problem solving and working with my hands. I am restoring a 1976 Ford f150 Custom Cab 300i6 in my spare time. I have been actively learning programming since Fall 2023. I plan to pursue a PhD at the University of Wyoming starting Fall of 2027.
 
-## Education:
-- **Central Wyoming College** Associates of Applied Science in Computer Technology (May 2024)
-- **University of Wyoming** Bachelor's of Appled Science in Software Development(In progress)
-- **Comptia / Testout** Comptia A+, Testout Network Pro, and Security Pro
+## Education
+- **Central Wyoming College** Associates of Applied Science in Computer Technology (August 2024).
+- **Central Wyoming College** Associates of Science in Applied Software Development (Expected 2026).
+- **University of Wyoming** Bachelor's of Science in Applied Software Development(In progress).
+- **Comptia / Testout** Comptia A+, Testout Network Pro, and Security Pro.
 
-## Experience:
-  - **Firmware Development** CWC/UW GIRRLS Project | Developed circuit python firmware and an asynchronous communicaiton protocal for an arduino controlled candy mahcine
-  - **Web Development** CWC/UW GIRRLS Project | Assisted development of the GIRRLS webisite https://www.girrls-project.com
-  - **Web Development** Lance Computer LLC | My side business, I made the website, and sometimes make websites for clients https://www.lancecomputer.com
-
-## Languages:
-- **Python**
-- **JavaScript** (Primarily Vue.js for my website and other projects)
-- **C++** (Prior Experience, going to revisit when time allows)
-- **HTML/CSS** (Section titled languages, that includes markup)
-- **SQL**
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,debian,py,flask,fastapi,vue,pinia,js,ts,svelte,css,cs,cpp,arduino,docker,postgres,vscodium,blender,unity" />
+  </a>
+</p>
