@@ -1,5 +1,5 @@
 ### About Me
-I am a student in the University of Wyoming's School of Computing in the Applied Software Development program.I currently study under Chatgpt where I learn to meet the requirements of assignments but continually fall short of the spirit of them. Nobody will tell me what tha means. Look, I make good full stack software, if you are ok with me falling short of the spirit of things then we can work together. 
+I am a student in the University of Wyoming's School of Computing in the Applied Software Development program. I currently study under Chatgpt where I learn to meet the requirements of assignments but continually fall short of the spirit of them. Nobody will tell me what tha means. Look, I make good full stack software, if you are ok with me falling short of the spirit of the working software I can make for you then we can work together. 
 
 ## Education
 - **Central Wyoming College** Associates of Applied Science in Computer Technology (August 2024).
