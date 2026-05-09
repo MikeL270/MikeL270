@@ -4,8 +4,9 @@ I am a student in the University of Wyoming's School of Computing in the Applied
 ## Education
 - **Central Wyoming College** Associates of Applied Science in Computer Technology (August 2024).
 - **Central Wyoming College** Associates of Science in Applied Software Development (Expected 2026).
-- **University of Wyoming** Bachelor's of Science in Applied Software Development(In progress).
+- **University of Wyoming** Bachelor of Science in Applied Software Development(In progress).
 - **Comptia / Testout** Comptia A+, Testout Network Pro, and Security Pro.
+- **meeting the requirement assignments but not the spirit**
 
 ## Skills
 <p align="center">
