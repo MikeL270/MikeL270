@@ -1,5 +1,5 @@
 ### About Me
-I am a student in the University of Wyoming's School of Computing in the Applied Software Development program. I earned my AAS from CWC and decided to continue my education further. I enjoy problem solving and working with my hands. I am restoring a 1976 Ford f150 Custom Cab 300i6 in my spare time. I have been actively learning programming since Fall 2023. I plan to pursue a PhD at the University of Wyoming starting Fall of 2027.
+I am a student in the University of Wyoming's School of Computing in the Applied Software Development program.I currently study under Chatgpt where I learn to meet the requirements of assignments but continually fall short of the spirit of them. Nobody will tell me what tha means. Look, I make good full stack software, if you are ok with me falling short of the spirit of things then we can work together. 
 
 ## Education
 - **Central Wyoming College** Associates of Applied Science in Computer Technology (August 2024).
