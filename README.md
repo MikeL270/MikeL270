@@ -10,6 +10,6 @@ I am a student in the University of Wyoming's School of Computing in the Applied
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,py,flask,fastapi,vue,pinia,js,ts,svelte,css,cs,cpp,arduino,docker,postgres,vscodium,blender,unity" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,py,flask,fastapi,vue,pinia,js,ts,svelte,css,cs,cpp,arduino,docker,postgres,vscodium,blender,unity,dart,flutter" />
   </a>
 </p>
