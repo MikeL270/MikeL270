@@ -8,8 +8,4 @@ I am a student in the University of Wyoming's School of Computing in the Applied
 - **Comptia / Testout**, Testout Network Pro, and Security Pro.
 
 ## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,py,flask,fastapi,vue,pinia,js,ts,svelte,css,cs,cpp,arduino,docker,postgres,vscodium,blender,unity,dart,flutter" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,linux,py,js,ts,go,cs,cpp,dart,bash,regex,md,flask,fastapi,nodejs,vue,pinia,svelte,bootstrap,flutter,css,postgres,sqlite,redis,aws,cloudflare,docker,nginx,ansible,githubactions,gitlab,arduino,raspberrypi,opencv,sklearn,tensorflow,cmake,git,npm,vite,vitest,yarn,blender,unity,vscode,vscodium,neovim,vim)](https://skillicons.dev)
