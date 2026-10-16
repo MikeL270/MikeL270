@@ -2,8 +2,8 @@
 Hi, I like computers. 
 
 ## Education
-- **Central Wyoming College** Associates of Applied Science in Computer Technology (August 2024).
-- **Central Wyoming College** Associates of Science in Applied Software Development with a minor in computing (Expected December 2026).
+- **Central Wyoming College** Associate of Applied Science in Computer Technology (August 2024).
+- **Central Wyoming College** Associate of Science in Applied Software Development with a minor in computing (Expected December 2026).
 - **University of Wyoming** Bachelor of Science in Applied Software Development(Expected Spring 2027).
 - **University of Wyoming** Master of Science in Artificial Intelligence (planned fall 2027).
 - **Comptia / Testout**, Testout Network Pro, and Security Pro, 220-1102 & 220-11-2 Comptia A+ (expired).
